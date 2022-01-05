@@ -1,0 +1,13 @@
+.footer {
+    background-color: rgb(237, 237, 238);
+    padding: 65px 14px;
+  }
+
+  .rs {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .legal_sentence {
+      text-align: center;
+  }
